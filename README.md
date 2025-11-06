@@ -13,7 +13,7 @@ Welcome to the **100 Days of Java Coding Challenge**! This repository contains a
 | Day | Challenge | Status |
 |-----|-----------|--------|
 | 1   | Print "Hello World" in Java | ![Compleated](https://img.shields.io/badge/Status-completed-green) |
-| 2   | Calculate the sum of two numbers | ![Not Started](https://img.shields.io/badge/Status-Not%20Started-lightgrey) |
+| 2   | Calculate the sum of two numbers | ![Compleated](https://img.shields.io/badge/Status-completed-green) |
 | 3   | Swap two numbers without using a third variable | ![Not Started](https://img.shields.io/badge/Status-Not%20Started-lightgrey) |
 | 4   | Check if a number is even or odd | ![Not Started](https://img.shields.io/badge/Status-Not%20Started-lightgrey) |
 | 5   | Find the largest of three numbers | ![Not Started](https://img.shields.io/badge/Status-Not%20Started-lightgrey) |
