@@ -2,7 +2,7 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![100 Days Challenge](https://img.shields.io/badge/100_Days_Challenge-FF6B6B?style=for-the-badge)
-![Progress](https://img.shields.io/badge/Progress-1%25-red?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-5%25-red?style=for-the-badge)
 
 Welcome to the **100 Days of Java Coding Challenge**! This repository contains a structured roadmap of Java programming exercises from **Beginner** to **Advanced**, designed to strengthen your core Java skills and prepare you for web development using Java. 💻
 
@@ -14,9 +14,9 @@ Welcome to the **100 Days of Java Coding Challenge**! This repository contains a
 |-----|-----------|--------|
 | 1   | Print "Hello World" in Java | ![Compleated](https://img.shields.io/badge/Status-completed-green) |
 | 2   | Calculate the sum of two numbers | ![Compleated](https://img.shields.io/badge/Status-completed-green) |
-| 3   | Swap two numbers without using a third variable | ![Not Started](https://img.shields.io/badge/Status-Not%20Started-lightgrey) |
-| 4   | Check if a number is even or odd | ![Not Started](https://img.shields.io/badge/Status-Not%20Started-lightgrey) |
-| 5   | Find the largest of three numbers | ![Not Started](https://img.shields.io/badge/Status-Not%20Started-lightgrey) |
+| 3   | Swap two numbers without using a third variable | ![Compleated](https://img.shields.io/badge/Status-completed-green) |
+| 4   | Check if a number is even or odd | ![Compleated](https://img.shields.io/badge/Status-completed-green) |
+| 5   | Find the largest of three numbers | ![Compleated](https://img.shields.io/badge/Status-completed-green) |
 | 6   | Reverse a string | ![Not Started](https://img.shields.io/badge/Status-Not%20Started-lightgrey) |
 | 7   | Count vowels and consonants in a string | ![Not Started](https://img.shields.io/badge/Status-Not%20Started-lightgrey) |
 | 8   | Check if a string is a palindrome | ![Not Started](https://img.shields.io/badge/Status-Not%20Started-lightgrey) |
